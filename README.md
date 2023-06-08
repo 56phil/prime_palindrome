@@ -17,7 +17,9 @@ The program consists of three main functions:
 The program requires the Boost library. You can install it on Ubuntu with:
 
 ```bash
-sudo apt-get install libboost-all-dev
+sudo apt-get install libboost-all-dev (Debian)
+brew install boost (Mac)
+yay -S boost (ARCH)
 ```
 
 ## Compilation
